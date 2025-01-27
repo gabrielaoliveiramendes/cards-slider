@@ -1,5 +1,6 @@
 @import url("./reset.css");
 @import url("./fontes.css");
+@import url("./responsive.css");
 
 body {
 	font-family: "Yugioh", serif;
